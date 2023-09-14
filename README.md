@@ -6,7 +6,7 @@
 
 As the lead analyst for the "InflationIQ: Navigating CPI Shifts" project, I conducted a comprehensive analysis of consumer spending patterns, inflation changes, and the Consumer Price Index (CPI) across a diverse range of expenditure categories. This project involved a meticulous examination of economic data and trends, aiming to provide valuable insights for decision-makers in finance, marketing, and economics.
 
-Here is the report with all the findings: [InflationIQ Report.pdf]([https://github.com/AtharvaDharia0732/InflationIQ-Project-PowerBI/blob/b2e97b607e0bd5bbbcd82590f313281ea4a597de/InflationIQ%20Report.pdf](https://github.com/AtharvaDharia0732/InflationIQ-PowerBI/blob/main/InflationIQ%20Report.pdf))
+Here is the report with all the findings: [InflationIQ Report.pdf](https://github.com/AtharvaDharia0732/InflationIQ-PowerBI/blob/ed420acb8ec08108c5dc0c9e50e6ced96d9f63b9/InflationIQ%20Report.pdf)
 
 <h2>Key Contributions</h2>
 <ul>

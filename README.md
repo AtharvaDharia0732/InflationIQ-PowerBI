@@ -24,7 +24,7 @@ Here is the report with all the findings: [InflationIQ Report.pdf](https://githu
 
 <li>Problem Analysis</li> 
 <li>Data Gathering </li>
-<li>Data Cleaning and Data Analysis (SQL management server</li>
+<li>Data Cleaning and Data Analysis (SQL management server)</li>
 <li>Data Visualization (Power-BI)</li>
 <li>Story Telling with Data</li>
 

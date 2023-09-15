@@ -1,6 +1,6 @@
-# InflationIQ-Project-PowerBI
+# Inflation and Expenditure Project- SQL and PowerBI
 
-<h1>Project Title: InflationIQ: Navigating CPI Shifts</h1> 
+<h1>Project Title: Inflation and Expenditure: Decoding Consumer Spending with Data Analytics </h1> 
 
 <h2>Project Description</h2>
 
